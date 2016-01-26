@@ -17,6 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"这是一个IT口袋");
+    NSLog(@"这是一个IT口袋");
+    NSLog(@"这是一个IT口袋");
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
