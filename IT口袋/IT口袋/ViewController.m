@@ -19,6 +19,7 @@
     NSLog(@"这是一个IT口袋");
     NSLog(@"这是一个IT口袋");
     NSLog(@"这是一个IT口袋");
+    NSLog(@"hahahhaha");
     
     // Do any additional setup after loading the view, typically from a nib.
 }
